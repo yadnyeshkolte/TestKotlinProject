@@ -7,7 +7,4 @@ plugins {
     alias(libs.plugins.composeCompiler) apply false
     alias(libs.plugins.kotlinMultiplatform) apply false
 
-    id("org.jetbrains.kotlin.jvm") version "2.0.21"
-    id("com.example.kotlin-structure-analyzer") version "1.0.0"
-
 }
