@@ -1,4 +1,4 @@
-package org.test.kotlin.project
+package org.example.project
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
